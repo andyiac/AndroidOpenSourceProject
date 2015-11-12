@@ -185,7 +185,7 @@ $(document).ready(function() {
     })();
 
     $.getScript('/js/prettify.min.js', function() {     // 添加
-       // prettyPrint();
+       prettyPrint();
     });
 
 });

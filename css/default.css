@@ -83,7 +83,8 @@ body .hide {
 }
 /***********default settings**********/
 body {
-	font-family:"微软雅黑","Arial","Helvetica","sans-serif";
+	/*font-family:"微软雅黑","Arial","Helvetica","sans-serif";*/
+	font-family: 'Open Sans', sans-serif;
 	font-size:16px;
 }
 a {
