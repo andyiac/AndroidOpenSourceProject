@@ -1,3 +1,7 @@
+---
+layout: post
+---
+
 # ProjectName
 
 everything you should know with `project name`
