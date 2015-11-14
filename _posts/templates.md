@@ -1,6 +1,8 @@
 ---
 layout: post
+permalink: /templates.html
 ---
+
 
 # ProjectName
 

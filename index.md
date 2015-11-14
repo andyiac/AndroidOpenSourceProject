@@ -29,7 +29,7 @@ AndroidDevLibs 致力于做非官方最专业的类库收集整理。
 * fork主仓库（<https://github.com/andyiac/androiddevlibs>）
 * 按照单个项目认领整理(每次申请一个项目)，在下面这个`index.md`里找还没有被人申请的项目，写上（@你的github号），给主仓库的`gh-pages`分支提pull request；
 * 提的 pull request 被确认，合并到主仓库gh-pages后，代表你申请的项目*认领*完成，开始收集整理；
-* 整理收集过程请参考 *_posts/templates* ，完成后提交 pull request 给主仓库的`gh-pages`分支；
+* 整理收集过程请参考 *_posts/templates.md*文件，完成后提交 pull request 给主仓库的`gh-pages`分支；
 
 
 
