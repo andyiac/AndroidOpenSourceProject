@@ -10,7 +10,7 @@ Do not reinvent the wheel, let's collect the wheels!
 
 收集整理Android开发过程中所使用的轮子。不要重新发明轮子，一起来收集整理轮子！
 
-注：本项目数据源于 `snowdream` 同学的 [awesome-android](https://github.com/snowdream/awesome-android)
+注：本页数据源于 `snowdream` 同学的 [awesome-android](https://github.com/snowdream/awesome-android)
 
 
 ## Introduction
