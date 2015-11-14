@@ -13,32 +13,25 @@ layout: default
     }
 </style>
 
-<div id="content">
+<div id="content" class="main-content">
     <!-- 文章内容 start -->
     <div class="entry">
         <h1 class="entry-title"><a href="{{ page.url }}" title="{{ page.title }}">{{ page.title }}</a></h1>
         <p class="entry-date">{{ page.date|date:"%Y-%m-%d" }}</p>
         {{ content }}
 
-        <!--
-        <div id="disqus_container">
-            <a href="javascript:void(0);" onclick="toggleDuoshuoComments('#comment-box', '{{ page.title }}', 'http://siberiawolf.com/{{ page.url }}');">点击查看评论</a>
-            <div id="comment-box"></div>
-        </div>
-        -->
-
     </div>
     <!-- 文章内容 end -->
 
 </div>
 
-<div id="footer">
+<!-- <div id="footer">
     <p>
         <a href="http://www.miitbeian.gov.cn/" target="_blank">京ICP备14051142号</a>，版权所有 © 2015 
         <a href="http://siberiawolf.com/" target="_blank">Siberiawolf的小窝</a>。
         感谢<a href="https://pages.github.com/" target="_blank">GitHub Pages</a>开源技术。
     </p>
-</div>
+</div> -->
 
 <!-- 文章页JS -->
 <script src="http://libs.baidu.com/jquery/2.0.0/jquery.min.js"></script>

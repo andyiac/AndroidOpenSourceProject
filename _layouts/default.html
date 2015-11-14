@@ -2,55 +2,24 @@
 <html>
 <head>
     <meta charset="utf-8" />
-    <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
-    <meta name="author" content="Siberiawolf" />
     <meta name="renderer" content="webkit">
-    <meta name="description" content="Siberiawolf的小窝" />
-    <meta name="keywords" content="Siberiawolf的小窝,siberiawolf,siberiawolf0307">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
-    <link rel="stylesheet" href="/css/default.min.css" type="text/css" />
-    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+    <link rel="stylesheet" href="/css/default.css" type="text/css" />    
 </head>
 <body>
 
-    <div class="home-menu">
-        <div class="home-icon-con">
-            <a class="home-menu-icon" href="/" style="color:#fff;">Siberiawolf</a>
-            <a class="home-follow" href="#" title="Contact Me">+</a>
-        </div>
-        <div class="home-contact">
-            <a href="https://github.com/siberiawolf" target="_blank">
-                <div class="github"></div>
-            </a>
-            <a href="http://weibo.com/siberiawolf0307/" target="_blank">
-                <div class="weibo"></div>
-            </a>
-            <a href="https://twitter.com/siberiawolf0307" target="_blank">
-                <div class="twitter"></div>
-            </a>
-            <a href="https://www.facebook.com/siberiawolf0307" target="_blank">
-                <div class="facebook"></div>
-            </a>
-        </div>
-    </div>
+
+
+ <section class="page-header">
+      <h1 class="project-name">AndroidDevLibs</h1>
+      <h2 class="project-tagline">A collection of android dev libs. Do not reinvent the wheel, let&#39;s collect the wheels!</h2>      
+      <a href="https://github.com/andyiac/AndroidDevLibs" class="btn">View on GitHub</a>
+      <a href="https://github.com/andyiac/AndroidDevLibs/zipball/master" class="btn">Download .zip</a>
+      <a href="https://github.com/andyiac/AndroidDevLibs/tarball/master" class="btn">Download .tar.gz</a>
+</section>
+
 
     {{ content }}
-    <!-- 左侧导航JS -->
-    <script type="text/javascript">
-        $(function(){
-            // 左侧悬浮点击
-            $('.home-follow').click(function(e){              
-                e.preventDefault();
 
-                if($('.home-contact').is(':visible')){
-                    $('.home-contact').hide();
-                }else{
-                    $('.home-contact').show();
-                }
-            });
-        });
-    </script>
-
-  
 </body>
 </html>
