@@ -1,12 +1,12 @@
 # Android Open Source Project 
 
 
-Android Open Source Project dedicated to collect high-quality Android open source project.
+Android Open Source Project dedicated to collect high-quality Android open source app.
 
 If you find any then join us.
 
 * fork the main Repo(<https://github.com/andyiac/androidopensourceproject>)
-* Collating and add to the right ` Category ` follow the rules, after the completion of pull request submitted to the main Repo of `gh-pages` branch;
+* Collating and add to the right ` Category ` follow the rules to modify the `index.md` file, after the completion of pull request submitted to the main Repo of `gh-pages` branch;
 
 Rules
 
@@ -23,7 +23,7 @@ AndroidOpenSourceProject 致力于收集优质完整的Android开源项目。
 
 
 * fork主仓库（<https://github.com/andyiac/androidopensourceproject>）
-* 整理收集请按照 `分类` 并 `遵循以下规则`，完成后提交 pull request 给主仓库的`gh-pages`分支；
+* 整理收集请按照 `分类` 并 `遵循以下规则， `更改根目录下 `index.md` 文件，完成后提交 pull request 给主仓库的`gh-pages`分支；
 
 规则 
 
