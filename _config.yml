@@ -4,7 +4,9 @@ highlighter: pygments
 
 permalink: /:title
 
-title: Siberiawolf的小窝
-url: http://siberiawolf.com
+title: android open source project 
+url: http://androidopensourceproject.com
 feed: /atom.xml  
-author_info: <a href="http://siberiawolf.com/">siberiawolf</a>
+author_info: <a href="http://andyiac.com/">andyiac</a>
+
+port: 40002
